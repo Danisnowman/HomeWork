@@ -89,7 +89,7 @@ namespace Numbers_To_Date
               			monthMax = 31;
               			break;
                 }
-                day = askDate("Please enter a day by using it's number (Example: 27", monthMax);
+                day = askDate("Please enter a day by using it's number (Example: 27)", monthMax);
                 Console.WriteLine($"The date you selected is {day} of {monthName} of the year, {year}");
                 done = true;
             }

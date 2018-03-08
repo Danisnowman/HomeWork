@@ -55,7 +55,7 @@ dotnet build; dotnet run
 
 ## Authors
 
-* **Daniel Hernández** - *Coding* - [webpage](danisnowman.com)
+* **Daniel Hernández** - [webpage](https://www.danisnowman.com)  [Contact](mailto>danielernesto@ufm.edu)
 
 
 ## License

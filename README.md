@@ -12,5 +12,6 @@ Github is a great place to store code and an easy way of publishingmy work on th
 
 ### Author
 * **Daniel Hernández** - *20180077*
-[Webpage](danisnowman.com)
+
+[Webpage](https://www.sdanisnowman.com)
 [Contact me](mailto:danielernesto@ufm.edu)
